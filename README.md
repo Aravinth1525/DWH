@@ -1,7 +1,5 @@
 # Data Warehousing and Mining
 
-### Examples
-
 ![output](https://user-images.githubusercontent.com/79074310/144069703-4e1e1bca-65a5-4cd8-99df-aa29f2f074e2.png)
 
 ![output1](https://user-images.githubusercontent.com/79074310/144069721-20dffc64-2390-49bf-bc7b-95535130006c.png)
