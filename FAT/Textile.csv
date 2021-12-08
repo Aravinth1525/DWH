@@ -1,0 +1,16 @@
+Dress_ID,Style,Price,Rating,Size,Material
+1,Formal,Low,4,M,Cotton
+2,Casual,Low,5,L,Silk
+3,Vintage,High,4,L,Polyster
+4,Brief,Average,3,XL,Cotton
+5,Cute,Low,2,M,Silk
+6,Formal,Low,5,L,Cotton
+7,Casual,Low,4,M,Silk
+8,Vintage,High,4,S,Polyster
+9,Brief,Average,5,M,Cotton
+10,Cute,Low,4,L,Silk
+11,Formal,Low,3,L,Cotton
+12,Casual,Low,2,XL,Silk
+13,Vintage,High,5,M,Polyster
+14,Brief,Average,4,L,Cotton
+15,Cute,Low,4,M,Silk
